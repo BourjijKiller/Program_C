@@ -2,7 +2,7 @@
 -----------------
 
 ## DESCRIPTION
-	Programme en C pour manier les listes
+Programme en C pour manier les listes
 
 -----------------
 ## OPÉRATIONS POSSIBLES
