@@ -18,7 +18,7 @@ Voici un arbre binaire respectant le principe du TAS (les éléments dont la pri
 
 La représentation du TAS sous forme de tableau est la suivante (selon l'arbre ci-dessus) : 
 
-	| Élements | Indice |
+	| Élément | Indice tableau |
 	|:---:|:---:|
 	| **53** | **0** |
 	| **41** | **1** |
