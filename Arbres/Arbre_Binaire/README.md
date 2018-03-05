@@ -18,18 +18,18 @@ Voici un arbre binaire respectant le principe du TAS (les éléments dont la pri
 
 La représentation du TAS sous forme de tableau est la suivante (selon l'arbre ci-dessus) : 
 
-	| Élément | Indice tableau |
-	|:---:|:---:|
-	| **53** | **0** |
-	| **41** | **1** |
-	| **30** | **2** |
-	| **36** | **3** |
-	| **28** | **4** |
-	| **21** | **5** |
-	| **6** | **6** |
-	| **31** | **7** |
-	| **16** | **8** |
-	| **20** | **9** |
+| Élément | Indice tableau |
+|:---:|:---:|
+| **53** | **0** |
+| **41** | **1** |
+| **30** | **2** |
+| **36** | **3** |
+| **28** | **4** |
+| **21** | **5** |
+| **6** | **6** |
+| **31** | **7** |
+| **16** | **8** |
+| **20** | **9** |
 
 1. **Ajout d'un élément**
 	* L'ajout d'un élément consiste tout d'abord à tester si l'élément sera un fils gauche ou un fils droit. Pour cela, on ajoute l'élément dans la première case vide du tableau, et on regarde si l'indice de cet élément est pair ou impair. Si l'indice est pair, alors l'élément sera un fils droit, et al contrario, l'élément sera un fils gauche.
